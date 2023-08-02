@@ -9,3 +9,4 @@ https://lcsmanager.com/how-to-use/
 
 # Latest Fixes
 - July 30: Fixed Purple Nighthunter resolution in lower qualities. Redownload the fanthome file!
+- August 2: Forgot to include the .fathome file in Pink Cosmic Reaver, sorry xD
