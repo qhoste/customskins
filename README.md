@@ -14,3 +14,4 @@ https://lcsmanager.com/how-to-use/
 # Upcoming skins
 - Riot Kayle
 - Rengar
+- Dark Twitch rework
