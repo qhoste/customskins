@@ -13,4 +13,4 @@ https://lcsmanager.com/how-to-use/
 - August 4: Reworked Dark Twitch, fixed the bug aswell, feel free to redownload.
 
 # Upcoming skins
-- Rengar
+- Purple Nighthunter rework
