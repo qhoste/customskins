@@ -11,6 +11,7 @@ https://lcsmanager.com/how-to-use/
 - July 30: Fixed Purple Nighthunter resolution in lower qualities. Redownload the fanthome file!
 - August 2: Forgot to include the .fathome file in Pink Cosmic Reaver, sorry xD
 - August 4: Reworked Dark Twitch, fixed the bug aswell, feel free to redownload.
+- August 14: Reworked Purple Nighthunter, fixed the shitty splash art and remade effects.
 
 # Upcoming skins
 - Dark Galaxy Slayer
