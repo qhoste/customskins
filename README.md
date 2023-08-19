@@ -15,4 +15,5 @@ https://lcsmanager.com/how-to-use/
 - August 16: Fixed some effects on Purple Hecarim.
 
 # Upcoming skins
-- Dark Galaxy Slayer
+- Blue/Cyan Kha'zix
+- Dark Red Twitch (not sure when)
