@@ -14,6 +14,5 @@ https://lcsmanager.com/how-to-use/
 - August 14: Reworked Purple Nighthunter, fixed the shitty splash art and remade effects.
 - August 16: Fixed some effects on Purple Hecarim.
 
-# Upcoming skins
-- Blue/Cyan Kha'zix
-- Dark Red Twitch (not sure when)
+# NOTE
+Most of the custom skins are made by request and for free!
