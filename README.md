@@ -14,5 +14,10 @@ https://lcsmanager.com/how-to-use/
 - August 14: Reworked Purple Nighthunter, fixed the shitty splash art and remade effects.
 - August 16: Fixed some effects on Purple Hecarim.
 
+# Roadmap
+- Dark Aatrox with red eyes
+- Red nighthunter
+- Default rengar
+
 # NOTE
 Most of the custom skins are made by request and for free!
