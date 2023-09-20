@@ -18,5 +18,8 @@ https://lcsmanager.com/how-to-use/
 - Default rengar
 - Out of ideas slowly, if you have smth in mind Dm me!
 
+# Known issues
+- Pixel bugs on the hecarim skins, will fix it once I get my laptop back.
+
 # NOTE
 Most of the custom skins are made by request and for free!
