@@ -20,6 +20,7 @@ https://lcsmanager.com/how-to-use/
 
 # Known issues
 - Pixel bugs on the hecarim skins, will fix it once I get my laptop back.
+If there are any bugs or issues you encounter make sure to DM me on discord!
 
 # NOTE
 Most of the custom skins are made by request and for free!
