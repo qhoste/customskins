@@ -16,10 +16,11 @@ https://lcsmanager.com/how-to-use/
 
 # Roadmap
 - Default rengar
-- Out of ideas slowly, if you have smth in mind Dm me!
+- Obsidian hecarim chroma fix
 
 # Known issues
 - Pixel bugs on the hecarim skins, will fix it once I get my laptop back.
+- New icons for zed 
 If there are any bugs or issues you encounter make sure to DM me on discord!
 
 # NOTE
