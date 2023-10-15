@@ -1,8 +1,7 @@
 # Custom skins
 Custom skins made by qhoste.
-If you want to request a custom skin made by me, DM my discord
-(but first join https://discord.gg/sope cuz im there and my DMs are limited.)
-(sope also has cool skins for rengar)
+No more custom skins :(
+Will drop some more custom skins tho but barely :/
 
 # How to use custom skins?
 https://lcsmanager.com/how-to-use/
@@ -15,7 +14,5 @@ https://lcsmanager.com/how-to-use/
 - August 16: Fixed some effects on Purple Hecarim.
 - October 7: Replaced Zed custom skins ability icons with new ones
 
-# Known issues
-- Issues with red hecarim skin, cant fix :(
 # NOTE
 Most of the custom skins are made by request and for free!
