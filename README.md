@@ -15,13 +15,7 @@ https://lcsmanager.com/how-to-use/
 - August 16: Fixed some effects on Purple Hecarim.
 - October 7: Replaced Zed custom skins ability icons with new ones
 
-# Roadmap
-- Default rengar
-- Obsidian hecarim chroma fix
-
 # Known issues
-- Pixel bugs on the hecarim skins, will fix it once I get my laptop back.
-If there are any bugs or issues you encounter make sure to DM me on discord!
-
+- Issues with red hecarim skin, cant fix :(
 # NOTE
 Most of the custom skins are made by request and for free!
