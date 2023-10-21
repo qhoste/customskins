@@ -1,7 +1,7 @@
 # Custom skins
 Custom skins made by qhoste.
 No more custom skins :(
-Will drop some more custom skins tho but barely :/
+But im still willing to take requests so drop some to me at discord.gg/sope !
 
 # How to use custom skins?
 https://lcsmanager.com/how-to-use/
