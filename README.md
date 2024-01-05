@@ -1,6 +1,5 @@
 # Custom skins
-Custom skins made by qhoste.
-We are back!!
+Custom skins made by qhoste. We are back!! Join server for requests and updates at discord.gg/4Qu5AsmMgE
 
 # How to use custom skins?
 https://lcsmanager.com/how-to-use/
