@@ -1,5 +1,7 @@
 # Custom skins
-Custom skins made by qhoste. We are back!! Join server for requests and updates at https://discord.gg/4Qu5AsmMgE
+Custom skins made by qhoste. <p> 
+Taking some time off from skins, to see the update on Vanguard <p>
+discord.gg/sope
 
 # How to use custom skins?
 https://lcsmanager.com/how-to-use/
